@@ -1,0 +1,7 @@
+{
+  "name": "Copy of OmniScope AI",
+  "description": "A futuristic microscope interface featuring live feed analysis, slide mapping (fog of war), focus stacking visualization, and 3D biological modeling powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
