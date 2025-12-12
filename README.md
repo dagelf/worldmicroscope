@@ -1,4 +1,4 @@
-https://youtu.be/2dMFwIy9S0Y
+[![World Microscope Kaggle Entry](http://img.youtube.com/vi/2dMFwIy9S0Y/0.jpg)](https://youtu.be/2dMFwIy9S0Y)
 
 Started as an entry to a Kaggle Gemini 3 vibecoding competition: https://www.kaggle.com/competitions/gemini-3
 
